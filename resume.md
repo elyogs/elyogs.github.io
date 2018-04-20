@@ -33,7 +33,7 @@ Experience
 2016 - Now
 : 	*Application Development Associate*  
 	[Accenture Outsourcing Services SA](https://www.accenture.com)  
-	Full-time frontend/backend developer - 
+	Full-time frontend/backend developer
 
 2015
 :	*Training in technological development*  
@@ -77,13 +77,22 @@ Languages & IT Strengths
 ------------
 <span class="fas fa-code fa-lg">
 :	
-	C#, .Net, PHP, Java, Javascript, HTML, CSS, AngularJS, NodeJS
+	C#, .Net, PHP, Java, Javascript, HTML, CSS, AngularJS, NodeJS, VBScript
+
+<span class="fas fa-bug fa-lg">
+:	Selenium (Java, C#, VBScript)
 
 <span class="fas fa-database fa-lg">
 :	Oracle, MySQL, PostreSQL  
 
 <span class="fas fa-code-branch fa-lg">
-:	GIT, Jira, Selenium
+:	GIT, Jira
+
+Research career
+------
+*~*~*
+<span class="fas fa-edit fa-lg">
+:	*... [Uploading] ...*  
 
 Human Languages
 ------------
@@ -91,7 +100,7 @@ Spanish
 :	Native
 
 English
-:	Advanced 
+:	Advanced -- 
 	Escuela Oficial de Idiomas (B2 certificate)
 
 Awards
