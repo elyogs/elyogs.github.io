@@ -49,7 +49,7 @@ Experience
 2014 - 2015
 :	*Scientific dissemination*  
 	[Museo Elder de Ciencia y Tecnología](http://www.museoelder.org/)
-	[Fundación Universitaria de Las Palmas / Hospital Dr. Negrín](https://www.fulp.es/)
+	[Fundación Universitaria de Las Palmas](https://www.fulp.es/)
 
 Education
 ---------
