@@ -1,8 +1,3 @@
-<header>
-Things to Do
-============
-</header>
-
 <br />
 <br />
 ![](cvalt.jpeg)
