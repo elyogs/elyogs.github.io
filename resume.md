@@ -22,7 +22,7 @@ Personal Details
 
 <span class="fas fa-phone fa-lg"></span>&nbsp;&nbsp;+34 646 512 942
 
-<span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](www.linkedin.com/in/elyoenaiguerrasegura)
+<span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/elyoenaiguerrasegura)
 
 <span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;[GitHub](https://github.com/elyogs)
 
