@@ -83,7 +83,7 @@ Languages & IT Strengths
 :	Selenium (Java, C#, VBScript)
 
 <span class="fas fa-database fa-lg">
-:	Oracle, MySQL, PostreSQL  
+:	SQL Server, MySQL, PostreSQL  
 
 <span class="fas fa-code-branch fa-lg">
 :	GIT, Jira
