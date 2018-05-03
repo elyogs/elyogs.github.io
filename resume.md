@@ -60,7 +60,7 @@ Education
 	Focus area: Pattern recognition, signal & image processing, machine learning 
 	Universidad de Las Palmas de Gran Canaria (Spain)  
 
-2018 - 2014
+2008 - 2014
 :	*Telecommunication Engineer - Master’s Degree*  
 	Focus area: Signal & image processing  
 	Universidad de Las Palmas de Gran Canaria (Spain)  
