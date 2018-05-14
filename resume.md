@@ -79,7 +79,7 @@ Languages & IT Strengths
 ------------
 <span class="fas fa-code fa-lg">
 :	
-	C#, .Net, PHP, Java, Javascript, HTML, CSS, AngularJS, NodeJS, VBScript
+	C#, .Net, HTML, Java, Javascript, CSS, AngularJS, PHP, NodeJS, VBScript
 
 <span class="fas fa-bug fa-lg">
 :	Selenium (Java, C#, VBScript)
@@ -92,9 +92,40 @@ Languages & IT Strengths
 
 Research career
 ------
-*~*~*
-<span class="fas fa-edit fa-lg">
-:	*... [Uploading] ...*  
+2018
+:	*MÉTODO PARA LA IDENTIFICACIÓN DE PERSONAS MEDIANTE EL TRAZO AÉREO DE SU FIRMA CON DEDO DE ESCRITURA*  
+	[Patente nacional expedida el 9 de abr. de 2018  Número y entidad emisora de la patentees, P201600090](http://consultas2.oepm.es/InvenesWeb/detalle?referencia=P201600090)
+	Elyoenai Guerra-Segura, Carlos M Travieso, Jesús B Alonso 
+
+2017
+:	*Study of the variability of the Leap Motion’s measures for its use to characterize air strokes*  
+	[Measurement, Volume 105, 2017, Pages 87-97, ISSN 0263-2241](https://doi.org/10.1016/j.measurement.2017.04.016)
+	Elyoenai Guerra-Segura, Carlos M Travieso, Jesús B Alonso 
+	
+2016
+:	*Biometric approach based on physiological human signals*  
+	[2016 3rd International Conference on Signal Processing and Integrated Networks (SPIN), Noida, 2016, pp. 681-686.](https://doi.org/10.1109/SPIN.2016.7566783)
+	Néstor M Alemán-Soler, Carlos M Travieso, Elyoenai Guerra-Segura, Jesús B Alonso, Malay Kishore Dutta, Anushikha Singh 
+
+2015
+:	*Image Processing Applied to Melanoma Detection*  
+	[ Descripción de la publicaciónGRIN Verlag. ISBN (ebook): 978-3-668-07150-6. ISBN (book): 978-3-668-07151-3](https://www.grin.com/document/308605)
+	Elyoenai Guerra-Segura, Carlos M Travieso-González, Jesús B Alonso-Hernández
+
+2015
+:	*Symmetry Extraction in High Sensitivity Melanoma Diagnosis*  
+	[Symmetry 2015, 7(2), 1061-1079](https://doi.org/10.3390/sym7021061)
+	Elyoenai Guerra-Segura, Carlos M. Travieso-González, Jesús B. Alonso-Hernández, Antonio G. Ravelo-García, Gregorio Carretero
+
+2015
+:	*An image segmentation technique for melanocytic diseases classification in dermoscopy images*  
+	I Congreso de Jóvenes Investigadores de Canarias, Universidad de La Laguna, Tenerife, España, 9-10 Abril 2015. ISBN: 978-84-606-8029-1
+	Elyoenai Guerra-Segura, Carlos M. Travieso-González, Jesús B. Alonso-Hernández, Gregorio Carretero
+
+2015
+:	*Evaluation of different mathematical distances to develop the Dynamic Time Warping algorithm applied to gesture recognition*  
+	I Congreso de Jóvenes Investigadores de Canarias, Universidad de La Laguna, Tenerife, España, 9-10 Abril 2015. ISBN: 978-84-606-8029-1
+	Elyoenai Guerra-Segura, Carlos M. Travieso-González, Jesús B. Alonso-Hernández
 
 Human Languages
 ------------
