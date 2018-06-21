@@ -85,7 +85,7 @@ Languages & IT Strengths
 :	Selenium (Java, C#, VBScript)
 
 <span class="fas fa-database fa-lg">
-:	SQL Server, MySQL, PostreSQL  
+:	SQL Server, MySQL, PostreSQL, Firebase
 
 <span class="fas fa-code-branch fa-lg">
 :	GIT, Jira
@@ -138,6 +138,9 @@ English
 
 Awards
 ------
+2018
+:   *First place in Hackaton 'Feel the Metal Power' by FEMEPA. Solution: https://ecocanarias.life*  
+
 2016
 :	*Best academic records (Telecommunication Engineer - Master’s Degree)*  
 
