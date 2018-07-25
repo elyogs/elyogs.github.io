@@ -30,6 +30,8 @@ Personal Details
 
 <span class="fas fa-id-card fa-lg"></span>&nbsp;&nbsp;[ORCiD](https://orcid.org/0000-0002-2663-3717)
 
+<br />  
+
 Experience
 ----------
 2016 - Now
@@ -139,7 +141,7 @@ English
 Awards
 ------
 2018
-:   *First place in Hackaton 'Feel the Metal Power' by FEMEPA. Solution: https://ecocanarias.life*  
+:   *First place in Hackaton 'Feel the Metal Power' by FEMEPA. [EcoCanarias.life](https://ecocanarias.life)*
 
 2016
 :	*Best academic records (Telecommunication Engineer - Master’s Degree)*  
