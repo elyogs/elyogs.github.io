@@ -4,7 +4,7 @@
 
 # Elyoenai Guerra Segura
 
-### Application Development Associate • [ULPGC](https://ulpgc.es)  
+### Senior Developer • [ULPGC](https://ulpgc.es)  
 
 ----
 
@@ -20,8 +20,6 @@ Personal Details
 ---------
 <span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;elyoenai.guerra@gmail.com
 
-<span class="fas fa-phone fa-lg"></span>&nbsp;&nbsp;+34 646 512 942
-
 <span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/elyoenaiguerrasegura)
 
 <span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;[GitHub](https://github.com/elyogs)
@@ -34,7 +32,12 @@ Personal Details
 
 Experience
 ----------
-2016 - Now
+2018 - Now
+: 	*Senior Developer*  
+	[Arte Consultores Tecnológicos](http://www.arte-consultores.com)  
+	Full-time frontend/backend developer
+
+2016 - 2018
 : 	*Application Development Associate*  
 	[Accenture Outsourcing Services SA](https://www.accenture.com)  
 	Full-time frontend/backend developer
