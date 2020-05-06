@@ -4,7 +4,7 @@
 
 # Elyoenai Guerra Segura
 
-### Senior Developer • [ULPGC](https://ulpgc.es)  
+### Healthcare IT Specialist • [Dextromedica](https://www.dextromedica.com)  
 
 ----
 
@@ -32,7 +32,12 @@ Personal Details
 
 Experience
 ----------
-2018 - Now
+2019 - NOW
+: 	*Healthcare IT Specialist*  
+	[Dextromedica](https://www.dextromedica.com)  
+	Clinial consultant Monitoring - Ventilation
+
+2018 - 2019
 : 	*Senior Developer*  
 	[Arte Consultores Tecnológicos](http://www.arte-consultores.com)  
 	Full-time frontend/backend developer
